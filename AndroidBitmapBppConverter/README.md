@@ -1,0 +1,1 @@
+This is a simple utility meant to take an Android Bitmap object and convert it into a Windows-friendly 24bpp file, including any necessary header information.  The scope of the project is limited to this functionality as of now (Feb 16th, 2014).  The project doesn't run on its own - it is meant to be included as a class in other Android projects.
